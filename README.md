@@ -29,3 +29,6 @@ Here is your account page, you can change your informations except you phone num
 ![image](https://user-images.githubusercontent.com/108406154/215886581-92a69ea1-a5ea-4759-9427-f2dafb273843.png)
 
 You also can search but it is very simple searching. You need to type exactly the name of the item and it only shows one item.
+
+
+Note : You can get the database files and import them so you can really use the application or see how it works.
